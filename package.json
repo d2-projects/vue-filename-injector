@@ -1,0 +1,27 @@
+{
+  "name": "@d2-projects/vue-filename-injector",
+  "version": "1.0.0",
+  "description": "Inject the file path of .vue",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d2-projects/vue-filename-injector.git"
+  },
+  "keywords": [
+    "vue",
+    "file",
+    "filename",
+    "path",
+    "injector",
+    "loader"
+  ],
+  "author": "CNine <cnine229@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d2-projects/vue-filename-injector/issues"
+  },
+  "homepage": "https://github.com/d2-projects/vue-filename-injector#readme",
+  "dependencies": {
+    "loader-utils": "^1.2.3"
+  }
+}
