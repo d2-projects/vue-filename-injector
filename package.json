@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Inject the file path of .vue",
   "main": "index.js",
+  "private": false,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/d2-projects/vue-filename-injector.git"
